@@ -8,6 +8,8 @@ Also see the [tweets about this](http://www.apiful.io/intro/2016/06/01/npm-analy
 
 ## Some pictures :)
 
+### Ruby gems
 ![Ruby gems chart](img/rubygems.png)
 
+### Node modules
 ![Node modules chart](http://www.apiful.io/assets/posts/npm-analysis/npm_growth.png)
