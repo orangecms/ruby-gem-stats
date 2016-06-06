@@ -10,7 +10,7 @@ There is also a more [general chart on numbers of packages (modules)](http://www
 
 ## Reproduce
 
-Run the script `dldump.sh` to obtain and extract the database dump. [djust for a more recent copy](https://rubygems.org/pages/data).
+Run the script `dldump.sh` to obtain and extract the database dump. [Adjust accordingly](https://rubygems.org/pages/data) for a more recent copy.
 
 To run the scripts, you will need Python, Jupyter, pandas, and matplotlib.
 
